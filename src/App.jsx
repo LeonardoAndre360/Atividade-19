@@ -12,8 +12,8 @@ function App() {
     <div>
       <h1>Loja de Produtos</h1>
       <CardProduto 
-        nome="Produto Exemplo" 
-        preco={29.99} 
+        nome="Demon Slayer" 
+        preco={45.90} 
         adicionado={adicionado}
         onAdicionar={handleAdicionar}
       />
